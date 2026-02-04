@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/Hashibutogarasu/LibFirewallShared/compare/v1.2.0...v1.3.0) (2026-02-04)
+
+
+### Features
+
+* added errors ([d502d16](https://github.com/Hashibutogarasu/LibFirewallShared/commit/d502d160869b3d6b1148a38f468f16dc6d74d95d))
+* added errors ([7eafa99](https://github.com/Hashibutogarasu/LibFirewallShared/commit/7eafa9924ce3f5a1e947a73e2a04388fa950beeb))
+
 ## [1.2.0](https://github.com/Hashibutogarasu/LibFirewallShared/compare/v1.1.0...v1.2.0) (2026-02-04)
 
 
