@@ -18,6 +18,10 @@ public class FirewallInboundRule
     [MessagePack.Key(12)] public string ApplicationName { get; set; } = "";
     [MessagePack.Key(13)] public string ServiceName { get; set; } = "";
     [MessagePack.Key(14)] public string Grouping { get; set; } = "@FirewallAPI.dll,-23255";
+    [MessagePack.Key(15)] public string LocalUserAuthorizedList { get; set; } = "";
+    [MessagePack.Key(16)] public string RemoteUserAuthorizedList { get; set; } = "";
+    [MessagePack.Key(17)] public string RemoteMachineAuthorizedList { get; set; } = "";
+    [MessagePack.Key(18)] public string LocalUserOwner { get; set; } = "";
 }
 
 [MessagePack.MessagePackObject(true)]
@@ -38,6 +42,10 @@ public class FirewallOutboundRule
     [MessagePack.Key(12)] public string ApplicationName { get; set; } = "";
     [MessagePack.Key(13)] public string ServiceName { get; set; } = "";
     [MessagePack.Key(14)] public string Grouping { get; set; } = "@FirewallAPI.dll,-23255";
+    [MessagePack.Key(15)] public string LocalUserAuthorizedList { get; set; } = "";
+    [MessagePack.Key(16)] public string RemoteUserAuthorizedList { get; set; } = "";
+    [MessagePack.Key(17)] public string RemoteMachineAuthorizedList { get; set; } = "";
+    [MessagePack.Key(18)] public string LocalUserOwner { get; set; } = "";
 }
 
 [MessagePack.MessagePackObject(true)]
