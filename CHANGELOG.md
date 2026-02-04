@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1](https://github.com/Hashibutogarasu/LibFirewallShared/compare/v1.3.0...v1.3.1) (2026-02-04)
+
+
+### Bug Fixes
+
+* fixed ipc connection ([a167f4e](https://github.com/Hashibutogarasu/LibFirewallShared/commit/a167f4edad4a8fd4806d79eb1501eb452fb0c10c))
+* fixed ipc connection ([1b0d93e](https://github.com/Hashibutogarasu/LibFirewallShared/commit/1b0d93e6d5f6590bfb3460ac399e9ed01928b189))
+
 ## [1.3.0](https://github.com/Hashibutogarasu/LibFirewallShared/compare/v1.2.0...v1.3.0) (2026-02-04)
 
 
