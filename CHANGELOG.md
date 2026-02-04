@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/Hashibutogarasu/LibFirewallShared/compare/v1.3.1...v1.4.0) (2026-02-04)
+
+
+### Features
+
+* added enums ([f3d87e5](https://github.com/Hashibutogarasu/LibFirewallShared/commit/f3d87e5e0a6979f49ec2969e2aebe6754fffd120))
+* added enums ([a2ccc08](https://github.com/Hashibutogarasu/LibFirewallShared/commit/a2ccc0803f632d12acd72ac76190a1171cf30ecc))
+
 ## [1.3.1](https://github.com/Hashibutogarasu/LibFirewallShared/compare/v1.3.0...v1.3.1) (2026-02-04)
 
 
