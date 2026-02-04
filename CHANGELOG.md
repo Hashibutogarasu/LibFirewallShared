@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Hashibutogarasu/LibFirewallShared/compare/v1.1.0...v1.2.0) (2026-02-04)
+
+
+### Features
+
+* added interdace for ipc ([57c7058](https://github.com/Hashibutogarasu/LibFirewallShared/commit/57c7058b471267200f18ece96aa188848877c4f8))
+
 ## [1.1.0](https://github.com/Hashibutogarasu/LibFirewallShared/compare/v1.0.0...v1.1.0) (2026-02-04)
 
 
